@@ -1,4 +1,4 @@
-text
+
 <div align="center">
 
 <!-- Hero Banner -->
